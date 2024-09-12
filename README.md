@@ -6,6 +6,9 @@ Blockchain-based Voting System
 Overview
 This project implements a secure, decentralized, and tamper-proof blockchain-based voting system. It utilizes Python for backend services, Streamlit for the frontend, and Ethereum-compatible blockchain technology to ensure the integrity and transparency of the voting process.
 System Architecture
+
+![image](https://github.com/user-attachments/assets/ad85f477-9270-44c8-af95-76676d61220e)
+
 The system consists of the following main components:
 
 Frontend Application (Streamlit)
